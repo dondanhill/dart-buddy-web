@@ -1,2 +1,2 @@
 # dart-buddy-web
-website for dartbuddy
+website for dart-buddy
